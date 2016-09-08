@@ -1,0 +1,45 @@
+body {
+  background-color: grey;
+  color: white;
+  float: left;
+  border: 2px white;
+  border-style: solid;
+  padding: 30px;
+
+  }
+h1 {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  padding-top: 100px;
+}
+header{
+  text-align: center;
+}
+nav {
+  color: white;
+  display: block;
+  text-align: center;
+}
+img {
+   float: right;
+   padding:1px;
+   border:1px solid white;
+   background-color: grey;
+   margin-right: 10px;
+}
+hr {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+footer {
+  text-align: center;
+}
+li {
+  color: white;
+}
+a {
+  text-align: center;
+}
